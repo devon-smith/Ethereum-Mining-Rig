@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-**Goal:** Construct 5 Ethereum mining rigs with a total of over 20 GPUs.
+**Goal:** Construct as many Ethereum mining rigs as possible while splitting the AMD and NVDIA GPUs.
 
 **Environment:** Home-based settings.
 

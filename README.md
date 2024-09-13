@@ -2,7 +2,7 @@
 
  I did this project in my garage and it involved assembling custom frames, installing multiple GPUs, configuring motherboards, and setting up mining software. Here is a step by step process on how I built and set up Ethereum mining rigs. By the end of this project, I managed to set up 5 mining rigs using over 20 GPUs in total.
 
-## Project Overview
+
 
 **Goal:** Construct as many Ethereum mining rigs as possible while splitting the AMD and NVDIA GPUs.
 

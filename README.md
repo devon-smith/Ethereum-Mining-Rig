@@ -6,8 +6,6 @@ I built this project in my basement at home - it involved assembling custom fram
 
 **Goal:** Construct as many Ethereum mining rigs as possible while splitting the AMD and NVDIA GPUs.
 
-**Environment:** Home-based settings.
-
 **Tools Needed:**
 - Allen wrenches
 - Screwdrivers 

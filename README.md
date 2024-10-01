@@ -34,7 +34,7 @@ Choosing the right components was crutical for optimal mining performance and ef
 ## Step 2: Assembling the Hardware
 
 ### Setting Up the Motherboards
-Each motherboard was set up with the CPU, RAM, and storage before attaching it to the frame. BIOS settings were adjusted to enable mining mode if available.
+Each motherboard was set up with the CPU, RAM, and storage before attaching it to the frame. BIOS settings were adjusted to run the best software for the specific mining gpu.
 
 ### Installing GPUs
 GPUs were mounted on the frame using secure brackets and connected to the motherboards using PCIe risers. This helps in reducing heat accumulation and allows easier access for maintenance.

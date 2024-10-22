@@ -20,7 +20,7 @@ I built this project in my basement at home - it involved assembling custom fram
 **Hardware Components:**
 - GPUs: Various models including NVIDIA and AMD
 - Motherboards: Each capable of supporting multiple GPUs
-- Power Supplies: 1200W and above for optimal power distribution
+- Power Supplies: 1200W and above for optimal power distribution for the mainframe
 - Frames: Custom-built based on the number of GPUs to hold 
 
 ## Step 1: Planning and Design

@@ -17,7 +17,7 @@ I built this project in my basement at home - it involved assembling custom fram
 - Ethernet cables
 - Mining software (e.g., NiceHash, Ethminer, and redminer)
 
-**Hardware Components:**
+Hardware Components:
 - GPUs: Various models including NVIDIA and AMD
 - Motherboards: Each capable of supporting multiple GPUs
 - Power Supplies: 1200W and above for optimal power distribution for the mainframe

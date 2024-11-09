@@ -42,7 +42,7 @@ GPUs were mounted on the frame using secure brackets and connected to the mother
 ## Step 3: Electrical and Power Setup
 
 ### Power Supply Installation
-High-wattage power supplies were installed to ensure each component receives adequate power. Proper distribution and cable management were crucial to avoid overheating and electrical hazards.
+High-wattage power supplies were installed to ensure each gpu receives adequate power. Proper distribution and cable management were crucial to avoid overheating and electrical hazards.
 
 ### Connectivity
 Ethernet cables were used to connect each rig to the internet for blockchain access. This setup is crucial for mining operations as it involves frequent data exchanges with the Ethereum network.

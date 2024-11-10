@@ -10,7 +10,7 @@ I built this project in my basement at home - it involved assembling custom fram
 - Allen wrenches
 - Screwdrivers 
 - GPU mounts
-- Frame materials (aluminum or steel)
+- Frame materials (aluminum )
 - Power supplies
 - Motherboards
 - GPUs

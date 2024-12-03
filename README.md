@@ -11,7 +11,7 @@ I built this project in my basement at home - it involved assembling custom fram
 - Screwdriver 
 - GPU mounts
 - Frame materials (aluminum )
-- Power supplies
+- Power supplies and cords
 - Motherboards
 - GPUs
 - Ethernet cables

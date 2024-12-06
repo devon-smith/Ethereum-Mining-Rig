@@ -30,7 +30,7 @@ I started by designing and building custom frames for holding the GPUs. Each fra
 ### Hardware Selection
 Choosing the right components was crutical for optimal mining performance and efficiency. I opted for a combination of NVIDIA and AMD GPUs due to their high performance in mining tasks. Each motherboard was selected based on the number of GPU slots and compatibility with other components.
 
-## Step 2: Assembling the Hardware
+## Step 2: Assembling the Hardware/frame
 
 ### Setting Up the Motherboards
 Each motherboard was set up with the CPU, RAM, and storage before attaching it to the frame. BIOS settings were adjusted to run the best software for the specific mining gpu (AMD or NVDIA).

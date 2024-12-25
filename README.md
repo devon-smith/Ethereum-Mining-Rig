@@ -13,8 +13,8 @@ I built this project in my basement at home - it involved assembling custom fram
 - Power supplies and cords
 - Motherboards
 - GPUs
-- Ethernet cables
-- Mining software (mainly Ethminer (AMD), and redminer)
+- Ethernet cabl
+- Mining software (mainly Ethminer (AMD), and redminer for NVDIA)
 
 Hardware Components:
 - GPUs: Various models including NVIDIA and AMD

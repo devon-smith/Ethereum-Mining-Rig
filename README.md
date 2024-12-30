@@ -36,7 +36,7 @@ Choosing the right components was crutical for optimal mining performance and ef
 Each motherboard was set up with the CPU, RAM, and storage before attaching it to the frame. BIOS settings were adjusted to run the best software for the specific mining gpu (AMD or NVDIA).
 
 ### Installing GPUs
-GPUs were mounted on the frame using secure brackets and connected to the motherboards using PCIe risers. This helps in reducing heat accumulation and allows easier access for maintenance or for switching out GPUs.
+GPUs were mounted on the frame using secure brackets and connected to the motherboards using PCIe risers. This helps in reducing heat accumulation and allows easier access for switching out GPUs.
 
 ## Step 3: Electrical and Power Setup
 

@@ -56,7 +56,7 @@ The final step involved system tweaks to optimize mining performance. This inclu
 
 ## Challenges Faced
 
-During this project, several challenges I encountered included:
+During this project, several hurdles to overcome I encountered included:
 - Overheating issues which were mitigated by optimizing the frame design for better air circulation.
 - Hardware compatibility issues, especially with different GPU models which required firmware updates and BIOS tweaks.
 

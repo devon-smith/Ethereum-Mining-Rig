@@ -49,7 +49,7 @@ Ethernet cables were used to connect each rig to the internet for blockchain acc
 ## Step 4: Software Installation and Configuration
 
 ### Mining Software
-For the mining software, I chose Ethminer due to its compatibility with Ethereum. Each rig was configured with unique worker IDs to monitor performance and troubleshooting.
+For the mining software, I chose Ethminer due to its compatibility with Ethereum. Each rig was configured with unique worker IDs to monitor performance.
 
 ### System Optimization
 The final step involved system tweaks to optimize mining performance. This included overclocking GPUs, tuning system cooling, and configuring auto-start settings in case of system reboots.

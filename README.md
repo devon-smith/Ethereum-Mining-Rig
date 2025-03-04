@@ -25,7 +25,7 @@ Hardware Components:
 ## Step 1: Planning and Design
 
 ### Frame Construction
-I started by designing and building custom frames for holding the GPUs. Each frame was customized because I needed to hold the exact amount of gpus I had of each brand.
+I started by building custom frames for holding the GPUs. Each frame was customized because I needed to hold the exact amount of gpus I had of each brand.
 
 ### Hardware Selection
 Choosing the right components was crutical for optimal mining performance and efficiency. I opted for a combination of NVIDIA and AMD GPUs due to their high performance in mining tasks. Each motherboard was selected based on the number of GPU slots and compatibility with other components.

@@ -7,7 +7,7 @@ I built this project in my basement at home - it involved assembling custom fram
 
 **Tools Needed:**
 - Allen wrenchs
-- Screwdriver 
+- Screwdrivers
 - GPU mounts
 - Frame materials (ideally aluminum)
 - Power supplies and cords

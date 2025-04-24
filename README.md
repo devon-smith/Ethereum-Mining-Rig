@@ -20,7 +20,7 @@ Hardware Components:
 - GPUs: Various models including NVIDIA and AMD
 - Motherboards: Each capable of supporting multiple GPUs
 - Power Supplies: 1200W and above for optimal power distribution for the mainframe
-- Frames: Custom-built frames based on the number of GPUs to hold 
+- Frames: Custom-built frames based on the number of GPU to hold 
 
 ## Step 1: Planning and Design
 

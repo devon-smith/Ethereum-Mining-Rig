@@ -11,7 +11,7 @@ I built this project in my basement at home - it involved assembling custom fram
 - GPU mounts
 - Frame materials (ideally aluminum because they are light)
 - Power supplies and cord
-- Motherboard
+- Motherboards
 - GPUs
 - Ethernet cable
 - Mining software (mainly Ethminer (AMD), and redminer for NVDIA)

@@ -5,7 +5,7 @@ I built this project in my basement at home - it involved assembling custom fram
 
 **Goal:** Construct as many Ethereum mining rig as possible with the GPU I have while splitting the AMD and NVDIA chip.
 
-**Tools Needed:**
+**Tools Needed:
 - Allen wrenches
 - Screwdrivers
 - GPU mounts
